@@ -3,4 +3,4 @@ This project is an interactive data visualization dashboard that explores the Be
 
 The data is fetched from an external JSON URL using D3, and charts update in real-time when a new sample is selected. The dashboard is fully responsive and deployed via GitHub Pages for easy access. This assignment demonstrates core skills in JavaScript, API data handling, DOM manipulation, and interactive data visualization. All logic is contained within a single JavaScript file (app.js) located in the static/js/ directory. The layout and functionality closely follow project guidelines from the UCI Data Analytics Bootcamp, Module 14 Challenge.
 
-Resources: This project was completed with support from ChatGPT by OpenAI, which provided guidance on JavaScript structure, D3 data handling, and Plotly chart configuration.
+Resources: This project was completed with support from Xpert Assistent & ChatGPT 
